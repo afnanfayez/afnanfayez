@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Afnan Alzeiti</h1>
 <h3 align="center">A passionate python developer and frontEnd developer</h3>
 
+- 🌍 I'm based in **Palestine/Gaza**
+
+- 🤝 I'm open to collaborating on [javascript projects](javascript projects)
+
 - 👨‍💻 I’m currently learning **React,NextJs**
 
-- ✨ I regularly share articles on [https://www.linkedin.com/in/afnan-alzeiti-27570a252/](https://www.linkedin.com/in/afnan-alzeiti-27570a252/)
-
 - ✉️ You can contact me at **afnan232003@gmail.com**
+
+- ✨ I regularly share articles on [https://www.linkedin.com/in/afnan-alzeiti-27570a252/](https://www.linkedin.com/in/afnan-alzeiti-27570a252/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
