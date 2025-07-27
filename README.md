@@ -3,7 +3,7 @@
 
 - 🌍 I'm based in **Palestine/Gaza**
 
-- 🤝 I'm open to collaborating on [javascript projects](javascript projects)
+- 🤝 I'm open to collaborating on [javascript projects]
 
 - 👨‍💻 I’m currently learning **React,NextJs**
 
