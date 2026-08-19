@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C2185B,100:FF4FA3&height=220&section=header&text=Afnan%20Alzeiti&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20React%2C%20Next.js%20%2F%20Node.js%2C%20NestJS%20%2F%20n8n&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C2185B,100:FF4FA3&height=220&section=header&text=Afnan%20Alzeiti&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20React%2C%20Next.js%20%2F%20Node.js%2C%20NestJS%20%7C%20n8n&descAlignY=55&descSize=16" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=FF4FA3&center=true&vCenter=true&width=650&lines=Building+full-stack+apps+with+Next.js+%2B+Supabase;Growing+backend+depth%3A+NestJS+%2B+Prisma+%2B+PostgreSQL;Exploring+AI+Engineering+%26+n8n+Automation;Freelance+Developer+%7C+Fast+Learner" alt="Typing SVG" />
 
@@ -61,7 +61,7 @@ Personal developer portfolio showcasing frontend work across React and Next.js p
 <td width="50%" valign="top">
 
 ### ⚙️ Backend Practice
-Hands-on, project-based work with REST APIs and relational data modeling — building toward production backend depth.
+Hands-on, project-based work with REST APIs and relational data modeling building toward production backend depth.
 
 `NestJS` `Prisma` `PostgreSQL` `Docker`
 
@@ -108,8 +108,7 @@ Hands-on, project-based work with REST APIs and relational data modeling — bui
 
 ### GitHub Activity
 
-<img src="https://github-readme-stats.vercel.app/api?username=afnan-alzeiti&show_icons=true&theme=default&hide_border=true&title_color=C2185B&icon_color=FF4FA3&text_color=333333" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=afnan-alzeiti&hide_border=true&background=FFFFFF&ring=FF4FA3&fire=FF4FA3&currStreakLabel=C2185B" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=afnanfayez&hide_border=true&background=FFFFFF&ring=FF4FA3&fire=FF4FA3&currStreakLabel=C2185B" height="165"/>
 
 <br/><br/>
 
