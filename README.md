@@ -1,69 +1,132 @@
-<h1 align="center">Hi there, I'm Afnan Alzeiti 👋</h1>
-<h3 align="center">Full-Stack Developer | React & Next.js | Growing into NestJS, Prisma & AI Engineering</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Building+full-stack+web+apps+with+React+%26+Next.js;Learning+NestJS+%2B+Prisma+%2B+PostgreSQL;Exploring+AI+Engineering+%26+n8n+Automation;Freelance+Developer+%7C+Fast+Learner+%7C+Problem+Solver" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C2185B,100:FF4FA3&height=220&section=header&text=Afnan%20Alzeiti&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20React%2C%20Next.js%20%2F%20Node.js%2C%20NestJS%20%2F%20n8n&descAlignY=55&descSize=16" width="100%"/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=FF4FA3&center=true&vCenter=true&width=650&lines=Building+full-stack+apps+with+Next.js+%2B+Supabase;Growing+backend+depth%3A+NestJS+%2B+Prisma+%2B+PostgreSQL;Exploring+AI+Engineering+%26+n8n+Automation;Freelance+Developer+%7C+Fast+Learner" alt="Typing SVG" />
 
-### 👩‍💻 About Me
+<br/>
 
-- 🌍 Based in **Gaza, Palestine**
-- 🎓 Computer Systems Engineering student at **Al-Azhar University** (Class of 2026)
-- 💼 Currently working as a **Freelance Full-Stack Developer**
-- 🔭 Building full-stack projects end-to-end with **Next.js + Supabase**
-- 🌱 Currently deepening my backend skills in **NestJS, Prisma & PostgreSQL**
-- 🤖 Also exploring **AI Engineering** and **workflow automation with n8n**
-- 🤝 Open to collaborating on **full-stack & JavaScript/TypeScript projects**
-- ✉️ Reach me at **afnan232003@gmail.com**
+<a href="https://www.linkedin.com/in/afnan-alzeiti-27570a252/"><img src="https://img.shields.io/badge/LinkedIn-C2185B?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:afnan232003@gmail.com"><img src="https://img.shields.io/badge/Email-FF4FA3?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Gaza,_Palestine-C2185B?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
----
+</div>
 
-### 🚀 Featured Projects
+<br/>
 
-**[Najat](https://github.com/)** — Crisis-response PWA for Gaza
-A full-stack, Arabic-first Progressive Web App providing health services info, emergency guidance, maps, and humanitarian aid resources — built to stay usable even under unreliable connectivity.
+## About Me
+
+I'm a Computer Systems Engineer (Al-Azhar University, Graduated 2026) and freelance full-stack developer. I build production-grade interfaces in **React** and **Next.js**, and I'm expanding into backend engineering with **NestJS**, **Prisma**, and **PostgreSQL**. I'm currently also exploring **AI engineering** and **workflow automation with n8n**.
+
+I like owning things end-to-end from the interface a user touches to the data underneath it.
+
+<br/>
+
+## Featured Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🩺 Najat
+Crisis-response platform for Gaza — health services, emergency guidance, maps, and humanitarian aid. Arabic-first (RTL), installable as a PWA, built to keep working when the network doesn't.
+
 `Next.js` `Supabase` `PWA` `RTL`
 
-**[AgriScan AI](https://github.com/)** — AI-Powered Farm Management Platform
-A full-stack platform diagnosing plant health from photos and managing workflows for three user types — home gardeners, commercial farmers, and nursery operators.
+[→ View Repository](https://github.com/afnanfayez/Najat)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌱 AgriScan AI
+AI-powered plant health and farm operations platform serving three roles: home gardener, commercial farmer, and nursery operator.
+
 `Next.js` `Supabase` `OpenAI` `Stripe`
 
-**[Portfolio Website](https://github.com/)** — Personal developer portfolio
-Showcasing my frontend work and skills across React and Next.js projects.
+[→ View Repository](https://github.com/afnanfayez/AgriScan-AI)
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 🛠️ Languages & Tools
+### 💼 Portfolio
+Personal developer portfolio showcasing frontend work across React and Next.js projects.
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40" style="background:white;border-radius:6px;padding:2px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</p>
+`Next.js` `Tailwind CSS`
 
----
+[→ View Repository](https://github.com/afnanfayez/3D-Portfolio)
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ Backend Practice
+Hands-on, project-based work with REST APIs and relational data modeling — building toward production backend depth.
+
+`NestJS` `Prisma` `PostgreSQL` `Docker`
+
+[→ View Repository](https://github.com/afnanfayez)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<details>
+<summary><b>🧰 Tech Stack — click to expand</b></summary>
+<br/>
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,redux,html,css" />
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=nestjs,nodejs,postgres,prisma,python" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,jira" />
+
+</details>
+
+<details>
+<summary><b>💼 Experience — click to expand</b></summary>
+<br/>
+
+- **Frontend Engineer Intern**, TAQAT — built responsive interfaces for a SaaS clinic platform (React, Next.js, TypeScript, Redux Toolkit, JWT auth)
+- **Advanced React Intern**, Gaza Sky Geeks — feature-based architecture, TypeScript, TanStack Query/Router
+- **Code2Career Program**, Gaza Sky Geeks — intensive JavaScript/React training
+- **Freelance Full-Stack Developer** — independent client projects, end-to-end delivery
+
+</details>
+
+<br/>
+
+<div align="center">
+
+### GitHub Activity
+
+<img src="https://github-readme-stats.vercel.app/api?username=afnan-alzeiti&show_icons=true&theme=default&hide_border=true&title_color=C2185B&icon_color=FF4FA3&text_color=333333" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=afnan-alzeiti&hide_border=true&background=FFFFFF&ring=FF4FA3&fire=FF4FA3&currStreakLabel=C2185B" height="165"/>
+
+<br/><br/>
+
+<i>Open to full-stack internship opportunities and collaboration feel free to reach out 😃​</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4FA3,100:C2185B&height=100&section=footer" width="100%"/>
+
+</div>
 
 ### 📫 Connect with Me
-
 <p align="left">
   <a href="https://www.linkedin.com/in/afnan-alzeiti-27570a252/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="afnan alzeiti" height="30" width="40" />
   </a>
 </p>
 
+
 ---
 
-<p align="center"><i>Thanks for stopping by — always open to connecting with other developers and collaborating on interesting projects! 🚀</i></p>
+<p align="center"><i>Thanks for stopping by ,always open to connecting with other developers and collaborating on interesting projects!🩷🚀</i></p>
